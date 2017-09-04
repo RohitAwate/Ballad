@@ -18,3 +18,6 @@ A simple but beautiful text editor made using JavaFX.
 # Dependencies
 - Needs Java 8 because of use of lambda expressions
 - RichTextFX (https://github.com/TomasMikula/RichTextFX)
+
+# Beta available
+Download the executable JAR from 'Releases'.
