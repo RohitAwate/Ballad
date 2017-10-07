@@ -1,5 +1,6 @@
 # Ballad
 A simple but beautiful text editor made using JavaFX.
+Check it out here: https://goo.gl/xVTNRU
 
 # Features
 - Themes support using CSS
