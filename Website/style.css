@@ -1,0 +1,59 @@
+body {
+	background: linear-gradient(black, orange);
+	color: #FFFFFF;
+	font-family: 'Roboto';
+	font-weight: lighter;
+	font-size: 25px;
+}
+
+#titleImage {
+	width: 15%;
+}
+
+.screenshots {
+	width: 70%;
+}
+
+h1 {
+	font-family: 'Roboto';
+	font-weight: bold;
+	text-decoration: overline;
+}
+
+button {
+	background-color: #444444;
+	border-style: none;
+	padding: 7 7 7 7;
+	color: white;
+	font-size: 20px;
+	font-family: "Roboto";
+	font-weight: lighter;
+	border-radius: 4px;
+}
+
+p {
+	padding: 0 10 0 10;
+}
+
+button:hover {
+	background-color: #cf5822;
+	color: white;
+}
+
+#downloads {
+	border-radius: 5px;
+	padding: 10 10 10 10;
+	display: inline-block;
+	width:inherit;
+	background-color: #a36213;
+}
+
+#redirect {
+	text-align: center;
+	padding-top: 10px;
+	font-size: 15px;
+}
+
+#footer {
+	padding-bottom: 0.5%;
+}
