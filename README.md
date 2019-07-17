@@ -3,7 +3,7 @@
 ![headerimage](https://user-images.githubusercontent.com/23148259/39907481-ae8bc380-5506-11e8-9d31-3ce39295315b.png)
 
 A simple but beautiful text editor made using JavaFX.
-Check it out here: https://rohitawate.121wh.in
+Check it out here: https://rohitawate.github.io/Ballad/
 
 # Features
 - Themes support using CSS
